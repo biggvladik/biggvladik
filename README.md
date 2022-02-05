@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Vlad]! 😁
+### Hi there 👋, I am Vlad! 😁
 
 
 
