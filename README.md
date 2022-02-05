@@ -19,7 +19,8 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biggvladik&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biggvladik&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biggvladik&theme=solarized_dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biggvladik&theme=solarized_dark)]
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biggvladik&theme=solarized_dark)
 [![biggvladik's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=biggvladik&theme=dark)](https://github.com/biggvladik/leetcode-stats)
