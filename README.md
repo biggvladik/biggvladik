@@ -7,8 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I+am+Vlad!)](https://git.io/typing-svg)
 
-[![Instagram Badge](https://img.shields.io/badge/<biggvladik>-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/biggvladik/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/biggvladik/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/biggvladik)
+![Instagram](https://img.shields.io/badge/<biggvladik>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
 
