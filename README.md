@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL&style=social)&nbsp;&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&style=social)&nbsp;&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-black?logo=bash&style=social)&nbsp;&nbsp;
+
+
 
 
 
