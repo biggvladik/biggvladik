@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Vlad](https://rusty-sj.github.io/)! 😁
+### Hi there 👋, I am [Vlad](https://biggvladik.github.io/)! 😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
