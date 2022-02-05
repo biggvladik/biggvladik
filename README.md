@@ -16,7 +16,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=social)&nbsp;&nbsp;
 
 
-![Vlad's Github Stats](https://github-readme-stats.vercel.app/api?username=biggvladik&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biggvladik&hide=TeX&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biggvladik&theme=solarized_dark)
 
-![AAA](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biggvladik&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biggvladik&theme=solarized_dark)
