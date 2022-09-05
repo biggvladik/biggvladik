@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I+am+Vlad!+ I + am + learning + in + Mining + University + in Russia.+ I + interested + in + blockchain + and + backend-web + development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I+am+Vlad!+I+am+learning+in+Mining+University+inRussia.+I+interested+in+blockchain +and+backend-web+development)](https://git.io/typing-svg)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/biggvladik/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/biggvladik)
