@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Vlad. I am learning in Mining University in Russia.<br>I interested in blockchain and backend-web development
+My name is Vlad. I am learning in Mining University in Russia.<br>I interested in dekstop development and linux
 
 
 # 💻 Tech Stack:
